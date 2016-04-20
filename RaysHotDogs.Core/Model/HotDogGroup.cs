@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace RaysHotDogs.Core.Model
 {
-    class HotDogGroup
+    public class HotDogGroup
     {
         public int HotDogGroupId { get; set; }
         public string Title { get; set; }
