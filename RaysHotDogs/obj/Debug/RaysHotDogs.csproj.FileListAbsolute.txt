@@ -1,0 +1,15 @@
+C:\Users\austi\OneDrive\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs\bin\Debug\RaysHotDogs.dll
+C:\Users\austi\OneDrive\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs\bin\Debug\RaysHotDogs.pdb
+C:\Users\austi\OneDrive\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs\bin\Debug\RaysHotDogs.RaysHotDogs.apk
+C:\Users\austi\OneDrive\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs\bin\Debug\RaysHotDogs.RaysHotDogs-Signed.apk
+C:\Users\austi\OneDrive\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs\obj\Debug\RaysHotDogs.csprojResolveAssemblyReference.cache
+C:\Users\austi\OneDrive\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs\obj\Debug\RaysHotDogs.dll
+C:\Users\austi\OneDrive\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs\obj\Debug\RaysHotDogs.pdb
+C:\Users\austi\OneDrive\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs\obj\Debug\android\bin\RaysHotDogs.RaysHotDogs.apk
+C:\Users\austi\OneDrive\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs\obj\Debug\res\layout\main.xml
+C:\Users\austi\OneDrive\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs\obj\Debug\res\values\strings.xml
+C:\Users\austi\OneDrive\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs\obj\Debug\res\drawable\icon.png
+C:\Users\austi\OneDrive\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs\obj\Debug\R.cs.flag
+C:\Users\austi\OneDrive\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs\obj\Debug\uploadflags.txt
+C:\Users\austi\OneDrive\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs\obj\Debug\RaysHotDogs.dll.mdb
+C:\Users\austi\OneDrive\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs\bin\Debug\RaysHotDogs.dll.mdb
