@@ -11,5 +11,9 @@ C:\Users\austi\OneDrive\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHo
 C:\Users\austi\OneDrive\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs\obj\Debug\res\drawable\icon.png
 C:\Users\austi\OneDrive\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs\obj\Debug\R.cs.flag
 C:\Users\austi\OneDrive\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs\obj\Debug\uploadflags.txt
+C:\Users\austi\OneDrive\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs\obj\Debug\res\layout\hotdogdetailview.xml
+C:\Users\austi\OneDrive\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs\bin\Debug\RaysHotDogs.Core.dll
+C:\Users\austi\OneDrive\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs\bin\Debug\RaysHotDogs.Core.pdb
+C:\Users\austi\OneDrive\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs\bin\Debug\RaysHotDogs.Core.dll.mdb
 C:\Users\austi\OneDrive\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs\obj\Debug\RaysHotDogs.dll.mdb
 C:\Users\austi\OneDrive\Documents\Visual Studio 2015\Projects\RaysHotDogs\RaysHotDogs\bin\Debug\RaysHotDogs.dll.mdb
